@@ -1,10 +1,10 @@
 import { TopNav, Lorum } from './../components';
 
-export default function Home() {
+export default function Notes1() {
   return (
     <>
       <TopNav />
-      <h1 className="text-2xl text-center">Home page</h1>
+      <h1 className="text-2xl text-center">Notes 1 Page</h1>
       <Lorum />
     </>
   );
